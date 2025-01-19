@@ -1,0 +1,20 @@
+{
+    "seed": 42,
+    "round_coeff": 0.2,
+    "n": 150,
+    "max_x": 25.0,
+    "max_y": 10.0,
+    "background_color": "#000000",
+    "shrink_factor": 0.04,
+    "base_color": "#3477db",
+    "color_intensity_min": 0.5,
+    "color_intensity_max": 1.0,
+    "density_name": "uniform",
+    "min_density": 0.01,
+    "max_density": 10.000000000000002,
+    "inverted": false,
+    "texture_name": "None",
+    "texture_intensity": 0.2,
+    "image_name": "None",
+    "image_intensity": 0.2
+}
