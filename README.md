@@ -49,7 +49,7 @@ pip install -r requirements.txt
 ## Benchmark
 
 Performance tests were conducted using different configurations to assess execution speed.  
-Unsurprisingly, the number of Voronoi points is directly related to execution time. However, rounding the edges also significantly slows down execution.
+Unsurprisingly, the number of Voronoi points is directly related to execution time. Rounding the edges also significantly slows down execution.
 
 
 <br>
